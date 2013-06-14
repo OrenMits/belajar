@@ -1,0 +1,29 @@
+EKSTERIOR RUMAH 3D DENGAN OPENGL
+
+1.  Latar Belakang
+Rumah adalah bangunan yang berfungsi sebagai tempat tinggal, tempat berlindung, dsb. Berdasarkan sudut pandangnya rumah terbagi dua, yaitu interior dan eksterior.Bagian interior rumah memiliki bagian primer seperti kamar mandi, kamar tidur, dan lain sebagainya, tapi bagian eksterior rumah tergantung kebutuhan dan keinginan pemilik seperti garasi bagi yang memiliki mobil, taman bagi pecinta tanaman, kolam renang bagi olahragawan, dan lain sebagainya.
+Rumah yang akan dibangun OpenGL pada tugas besar ini ialah bagian eksteriornya. Bagian eksterior yang akan dibangun  ialah seprti pohon, halaman, kolam renang,  dan mobil beserta garasinya.
+Berdasarkan hal-hal yang telah diuraikan tersebut, maka penulis ingin membuat bentuk 3D sebuah rumah dengan OpenGL. 
+
+2.	Identifikasi Masalah
+Identifikasi masalah dari menggambarkan eksterior rumah adalah :
+a.	Bagaimana cara memodelkan setiap objek yang ada di bagian luar rumah?
+b.	Bagaimana pemanfaatan dari objek-objek yang telah disediakan Open GL?
+
+3.	Maksud dan Tujuan
+Maksud dari pembuatan Tugas Besar ini adalah menggambar objek Rumah. Adapun Tujuannya adalah :
+1.	Mengetahui cara menggambar objek-objek yang berada di setiap bagian luar rumah.
+2.	Mengaplikasikan materi openGL dari mata kuliah Grafika Komputer.
+
+4.	Batasan Masalah
+Batasan masalah dari pembuatan Tugas Besar ini adalah : 
+1.	Bahasa Pemrograman menggunakan Bahasa C dengan editor Bloodshed Dev C++, dan menggunakan library Open GL.
+2.	Objek yang digambarkan adalah rumah yang tampak dari luar beserta objek-objek yang ada di bagian luarnya.
+
+5.	Objek Pembangun
+a.	Rumah : Persegi panjang, segitiga
+b.	Mobil : Lingkaran
+c.	Pagar :
+d.	Halaman :
+e.	Pohon :
+f.	Kolam Renang :
